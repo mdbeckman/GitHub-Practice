@@ -34,7 +34,8 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>   
+| Benjamin Bodnar     Wed/Fri 2:30        benbodnar              https://github.com/benbodnar
 
 
 <br>
